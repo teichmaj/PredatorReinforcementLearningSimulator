@@ -1,6 +1,6 @@
 
 #include "config.hpp"
-#include "gui.hpp"
+#include "environment.hpp"
 #include "predator.hpp"
 
 #include <blitz/array.h>
